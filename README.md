@@ -2,7 +2,7 @@
 - 👀 I’m interested in building prediction models
 - 🌱 I’m currently learning Neural Networks
 - 💞️ I’m looking to collaborate on LinkedIn
-- 📫 How to reach me kazmisyedmohammedabbas@gmail.com
+- 📫 How to reach me syedmohammedabbaskazmi832@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love Football
 
